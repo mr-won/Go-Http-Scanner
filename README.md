@@ -1,3 +1,7 @@
+스캐너 사용법
+```
+go run scanner.go
+```
 ```go
 package main
 
